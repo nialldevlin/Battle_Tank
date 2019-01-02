@@ -1,0 +1,19 @@
+Concept
+This is a one or two player tank battle game. The two tanks must battle to fight each other with a limited number of shots and health. Terrain is used for tacitcal advantage
+
+Rules
+-The two tanks are the same
+-you can go anywhere which is surrounded by mountains
+-20 shots
+-100 health
+-Each shot does 10 - 100 damage depending on area hit.
+-last one standing wins
+
+Requirements
+-Two tanks, controlled by either AI or player
+-Spare parts revive health
+-Ammo boxes refil ammo
+-SFX: Gun firing, reloading, explosion, barrel moving, turret moving, engine sound, repair sound
+-Static mesh: Simple tank, tracks, body, turret, barrel
+-Textures: Later add for visual flare
+-Music: Background music
